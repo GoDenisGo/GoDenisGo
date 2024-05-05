@@ -1,6 +1,5 @@
 - 👋 Hello, I’m @GoDenisGo, but you can call me Denis!
 - 👀 I’m interested in a variety of projects.
-- 🌱 I’m currently studying in my 3rd year of University.
 - 💞️ I’m looking to collaborate on any project.
 - 📫 Reach me on Github, or email officialdeniskras@gmail.com
 - I like to test the waters with different projects and understand new concepts.
